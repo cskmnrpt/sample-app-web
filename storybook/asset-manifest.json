@@ -1,0 +1,40 @@
+{
+  "files": {
+    "0.68d197ae.iframe.bundle.js": "./0.68d197ae.iframe.bundle.js",
+    "main.css": "./static/css/main.a85bbb42.chunk.css",
+    "main.js": "./main.2c091c83.iframe.bundle.js",
+    "main.css.map": "./static/css/main.a85bbb42.chunk.css.map",
+    "runtime~main.js": "./runtime~main.9e0123e1.iframe.bundle.js",
+    "vendors~main.js": "./vendors~main.352844a8.iframe.bundle.js",
+    "vendors~main.js.map": "./vendors~main.352844a8.iframe.bundle.js.map",
+    "4.5f51397f.iframe.bundle.js": "./4.5f51397f.iframe.bundle.js",
+    "4.5f51397f.iframe.bundle.js.map": "./4.5f51397f.iframe.bundle.js.map",
+    "5.4c7c5865.iframe.bundle.js": "./5.4c7c5865.iframe.bundle.js",
+    "6.702e08eb.iframe.bundle.js": "./6.702e08eb.iframe.bundle.js",
+    "6.702e08eb.iframe.bundle.js.map": "./6.702e08eb.iframe.bundle.js.map",
+    "7.73a57b19.iframe.bundle.js": "./7.73a57b19.iframe.bundle.js",
+    "4.5f51397f.iframe.bundle.js.LICENSE.txt": "./4.5f51397f.iframe.bundle.js.LICENSE.txt",
+    "6.702e08eb.iframe.bundle.js.LICENSE.txt": "./6.702e08eb.iframe.bundle.js.LICENSE.txt",
+    "iframe.html": "./iframe.html",
+    "service-worker.js": "./service-worker.js",
+    "static/media/Select.css": "./static/media/filter3x.2943df5b.svg",
+    "static/media/bike-light-1200x1500.jpg": "./static/media/bike-light-1200x1500.37c843b0.jpg",
+    "static/media/bolt-shirt-1200x1500.jpg": "./static/media/bolt-shirt-1200x1500.c2599ac5.jpg",
+    "static/media/CartButton.css": "./static/media/cart3x.3669d74a.svg",
+    "static/media/close@3x.a30a8a1d.svg": "./static/media/close@3x.a30a8a1d.svg",
+    "static/media/menu3x.52cc17a3.svg": "./static/media/menu3x.52cc17a3.svg",
+    "static/media/pony-express.png": "./static/media/pony-express.46394a5d.png",
+    "static/media/red-onesie-1200x1500.jpg": "./static/media/red-onesie-1200x1500.2ec615b2.jpg",
+    "static/media/red-tatt-1200x1500.jpg": "./static/media/red-tatt-1200x1500.30dadef4.jpg",
+    "static/media/sauce-backpack-1200x1500.jpg": "./static/media/sauce-backpack-1200x1500.0a0b85a3.jpg",
+    "static/media/sauce-pullover-1200x1500.jpg": "./static/media/sauce-pullover-1200x1500.51d7ffaf.jpg",
+    "static/media/sl-404.jpg": "./static/media/sl-404.168b1cce.jpg",
+    "vendors~main.352844a8.iframe.bundle.js.LICENSE.txt": "./vendors~main.352844a8.iframe.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.9e0123e1.iframe.bundle.js",
+    "vendors~main.352844a8.iframe.bundle.js",
+    "static/css/main.a85bbb42.chunk.css",
+    "main.2c091c83.iframe.bundle.js"
+  ]
+}
